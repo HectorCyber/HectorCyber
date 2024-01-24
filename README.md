@@ -1,4 +1,4 @@
-<h1>Hi, I'm Hector! | <a href="www.linkedin.com/in/Hector-Garcia1012">  
+<h1>Hi, I'm Hector! | <a href="https://www.linkedin.com/in/Hector-Garcia1012/">  
   Highschool Student </a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
