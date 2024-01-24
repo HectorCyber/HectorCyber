@@ -10,7 +10,7 @@
 
 - [CompTIA Security+ (Expected XX/XX/2023)](https://www.comptia.org/certifications/security)
 - [CompTIA Network+ (Expected XX/XX/2024)](https://www.comptia.org/certifications/network)
-- [Dell Certificate: Dell EMC PowerEdge Corrective Maintenance Enterprise Course (Aquired April 22, 2023)]
+- [Dell Certificate: Dell EMC PowerEdge Corrective Maintenance Enterprise Course (Aquired April 22, 2023)
   
 <h2>📺 Other (PLACEHOLDER)</h2>
 
