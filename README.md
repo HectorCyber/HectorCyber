@@ -14,7 +14,7 @@
   
 <h2>📺 Other (PLACEHOLDER)</h2>
 
-- [PLACEHOLDER](PUT URL HERE)
+- [PLACEHOLDER]
 
 
 <h2> 👥 Connect with me:</h2>
