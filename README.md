@@ -3,8 +3,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/HectorCyber/LABURL)
-  - [Azure Sentinel Home Lab](https://github.com/HectorCyber/AzureSentinelLab/tree/main)
+  - [Azure Sentinel Home Lab (In Progress)](https://github.com/HectorCyber/AzureSentinelLab/tree/main)
+  - [Active Directory Home Lab (In Progress)](https://github.com/HectorCyber/LABURL)
     
 <h2>📄 Certifications</h2>
 
