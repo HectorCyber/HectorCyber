@@ -24,7 +24,5 @@
 [<img align="left" alt="HectorGarcia | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="HectorGarcia | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/x
-[youtube]: https://www.youtube.com/c/x
-[instagram]: https://www.instagram.com/x/
+
 [linkedin]: https://www.linkedin.com/in/Hector-Garcia1012
