@@ -1,5 +1,5 @@
 <h1>Hi, I'm Hector! | <a href="https://www.linkedin.com/in/Hector-Garcia1012/">  
-  Highschool Student </a>
+University Student </a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
